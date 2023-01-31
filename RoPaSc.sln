@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RoPaSc", "RoPaSc.pyproj", "{13E7C6C8-C64E-4689-9136-55C2A1C1831A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E7C6C8-C64E-4689-9136-55C2A1C1831A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E7C6C8-C64E-4689-9136-55C2A1C1831A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB0F9A25-37A1-4DCE-854A-6B6A98FBBCC7}
+	EndGlobalSection
+EndGlobal
